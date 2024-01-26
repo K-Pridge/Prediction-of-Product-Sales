@@ -37,6 +37,25 @@
 ## Next Steps:
   - Continue tuning data set through various Regression Models
 
+
+## Linear Coefficient Model 
+![Lin_Reg Plot](https://github.com/K-Pridge/Prediction-of-Product-Sales/assets/135768523/dce5ca6f-3dc7-439d-bc41-3e0d3cb3336c)
+
+### Summary
+- The type of Supermarkey affects outlet sales by just under 600 annually. 
+- The location affects sales by over 200 annually.
+- The types of foods available(seafood, breakfast items, low fat foods, vegetables and fruits) affects item sales from 25-100 annually.
+
+
+## Tree-Based Model
+![ItemOutletSales_Features Plot](https://github.com/K-Pridge/Prediction-of-Product-Sales/assets/135768523/3fb7912f-355c-45fd-889e-c113675a37ea)
+
+### Summary
+- The top 5 most important feature are: MRP, Type of Grocery Store, Item Visibility, Item Weight and Outlet Identifier.
+- These features contribute the most positively to the increase of Item_Outlet_Sales.
+
+
+
 ### For further information:
 
 #### For any additional questions, please contact: wkylepridgen@gmail.com
